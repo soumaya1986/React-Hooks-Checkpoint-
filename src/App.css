@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.movie-card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.filter {
+  margin-bottom: 16px;
+}
+
+.filter input {
+  margin: 0 8px;
+}
